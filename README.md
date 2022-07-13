@@ -5,7 +5,7 @@
 - Tive meu primeiro contato com programação na faculdade de engenharia, desde então me tornei entusiasta da área de Tecnologia e Informação; <br/>
 
 - Hoje além de ingressar em uma nova graduação venho estudando e me aprimorando na parte de Desenvolvedor Back End e Front End,
-  voldato a Web.
+  voltado a Web.
 
 <div align="center">
   <a href="https://github.com/MarceloGiati">
