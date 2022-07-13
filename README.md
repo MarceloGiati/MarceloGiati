@@ -2,7 +2,7 @@
 
 - Sou formado em Engenharia de Automação Industrial e estou cursando Sistemas de Informação.
   
-- Tive meu primeiro contato com programação na faculdade de engrnharia, desde então me tornei entusiasta da área de Tecnologia e Informação; <br/>
+- Tive meu primeiro contato com programação na faculdade de engenharia, desde então me tornei entusiasta da área de Tecnologia e Informação; <br/>
   Hoje além de ingressar em uma nova graduação venho estudando e me aprimorando na parte de Desenvolvedor Back End e Front End,
   voldato a Web.
 
