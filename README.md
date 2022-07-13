@@ -1,6 +1,6 @@
 ## 👋 Olá Eu sou Marcelo Giati
 
-- Estou em busca de uma posição como Developer Jr.
+- Estou em busca de uma posição como Dev Back-End.
 - Sou formado em Engenharia de Automação Industrial e estou cursando Sistemas de Informação.
   
 - Tive meu primeiro contato com programação na faculdade de engrnharia, desde então me tornei entusiasta da área de Tecnologia e Informação; <br/>
