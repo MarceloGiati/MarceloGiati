@@ -1,9 +1,13 @@
+## 👋 Hi I'm Marcelo Giati
+
+- I have a degree in Industrial Automation Engineering and I am studying Information Systems.
+- I had my first contact with programming at the engineering college, since then I have become an enthusiast in the area of Technology and Information;
+- Today, in addition to joining a new degree, I have been studying and improving myself as a Back End and Front End Developer.
+
 ## 👋 Olá Eu sou Marcelo Giati
 
 - Sou formado em Engenharia de Automação Industrial e estou cursando Sistemas de Informação.
-  
 - Tive meu primeiro contato com programação na faculdade de engenharia, desde então me tornei entusiasta da área de Tecnologia e Informação; <br/>
-
 - Hoje além de ingressar em uma nova graduação venho estudando e me aprimorando na parte de Desenvolvedor Back End e Front End.
 
 <div align="center">
