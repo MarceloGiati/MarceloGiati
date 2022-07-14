@@ -28,6 +28,8 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/marcelo-giati" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/marcelo-giati" target="_blank"><img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white>
+  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>)
   
   ![Snake animation](https://github.com/MarceloGiati/MarceloGiati/blob/output/github-contribution-grid-snake.svg)
   
