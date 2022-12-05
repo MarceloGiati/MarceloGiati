@@ -9,11 +9,16 @@
 - Sou formado em Engenharia de Automação Industrial e estou cursando Engenharia de Software.
 - Tive meu primeiro contato com programação na faculdade de engenharia, desde então me tornei entusiasta da área de Tecnologia e Informação; <br/>
 - Hoje além de ingressar em uma nova graduação venho estudando e me aprimorando na parte de Desenvolvedor Back End e Front End.
+<br>
 
-<div align="center">
-  <a href="https://github.com/MarceloGiati">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelogiati&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelogiati&layout=compact&langs_count=7&theme=dark"/>
+<div style="display: inline_block">
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarceloGiati&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarceloGiati&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deborapianezzer&theme=nord_dark) |
+| :-: | :-: | :-: |
+  
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarceloGiati&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=MarceloGiati&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+
 </div>
 
 <div 
@@ -40,3 +45,12 @@
   
 </div>
 
+
+<!--===========================================================================================================================================================-->
+<!--Outras aparências para o github-->
+<!--<div align="center">
+  <a href="https://github.com/MarceloGiati">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelogiati&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelogiati&layout=compact&langs_count=7&theme=dark"/>
+</div>-->
+<br>
